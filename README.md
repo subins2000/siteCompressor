@@ -7,7 +7,7 @@ Features
 
 2) Minify JavaScript & CSS files
 
-3) Minify Inline JavaScript, jQuery & CSS in HTML pages (<script>, <style>)
+3) Minify Inline JavaScript, jQuery & CSS in HTML pages (&lt;script&gt;, &lt;style&gt;)
 
 4) Replace Multiple Strings like **localsite.dev** to **mydomain.com**
 
